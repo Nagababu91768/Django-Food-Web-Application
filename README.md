@@ -87,6 +87,6 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-https://img.shields.io/badge/status-stable-green
 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python123&logoColor=ffdd54)
