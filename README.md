@@ -18,7 +18,7 @@ Use the package manager [pip](https://pypi.org/project/Nagababu-Django-Webapps/)
 pip install Nagababu-Django-Webapps
 ```
 ## Usage  (This is a resuable package using web functionalities in other projects along with custom apps )
-- Install Package Use the package manager [pip](https://pypi.org/project/Nagababu-Django-Webapps/)
+- Install Package Using the package manager [pip](https://pypi.org/project/Nagababu-Django-Webapps/)
 
    ![install](https://user-images.githubusercontent.com/92179722/136639763-0ef05376-df86-4b0c-91ee-24ff6f6e1e95.png)
 
