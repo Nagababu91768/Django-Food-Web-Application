@@ -11,7 +11,8 @@ This project intention to discover major concepts in Django to create a Food ord
   
 ## Installation
 Use the package manager [pip](https://pypi.org/project/Nagababu-Django-Webapps/) to install Food Apps.
-![reusable-Nagababu--Django--Webapps-brightgreen](https://user-images.githubusercontent.com/92179722/136641277-4bff24db-8a7e-442a-af2a-ca1dd560d94a.png) ![pypi-v0 0 (2)](https://user-images.githubusercontent.com/92179722/136641282-420aa7fa-6b51-4748-8eba-0665e25ea913.png) ![reusable-Nagababu--Django--Webapps-brightgreen](https://user-images.githubusercontent.com/92179722/136641290-0022f742-0007-493f-894e-bde18253846c.png)
+
+   ![reusable-Nagababu--Django--Webapps-brightgreen](https://user-images.githubusercontent.com/92179722/136641277-4bff24db-8a7e-442a-af2a-ca1dd560d94a.png) ![pypi-v0 0 (2)](https://user-images.githubusercontent.com/92179722/136641282-420aa7fa-6b51-4748-8eba-0665e25ea913.png) ![reusable-Nagababu--Django--Webapps-brightgreen](https://user-images.githubusercontent.com/92179722/136641290-0022f742-0007-493f-894e-bde18253846c.png)
 
 ```bash
 pip install Nagababu-Django-Webapps
